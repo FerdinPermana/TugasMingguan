@@ -1,0 +1,10 @@
+5. 	a. Benar 
+	karena kalau tidak ada nilai apa yang bisa dipanggil
+	b. Benar
+	karena setiap method memiliki parameter
+	c. salah
+	karena kalau tipe data berbeda tidak bisa
+	d. Benar/bisa
+	karena sebuah methode bisa menambah parameter dengan tanda pisah koma
+	e. salah
+	karena tidak bisa
